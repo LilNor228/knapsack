@@ -1,0 +1,19 @@
+Knapsack Solution for: ks_45_0
+Capacity: 58181
+Total value: 22658
+Total weight: 58116
+
+Selected items:
+Item 0: value=1945, weight=4990
+Item 2: value=2945, weight=7390
+Item 3: value=4136, weight=10372
+Item 4: value=1107, weight=3114
+Item 7: value=2890, weight=7280
+Item 9: value=1530, weight=3960
+Item 10: value=3432, weight=8564
+Item 11: value=2165, weight=5630
+Item 12: value=1703, weight=4506
+Item 18: value=805, weight=2310
+
+Binary representation:
+101110010111100000100000000000000000000000000

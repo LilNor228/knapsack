@@ -1,0 +1,13 @@
+Knapsack Solution for: ks_19_0
+Capacity: 31181
+Total value: 12066
+Total weight: 30532
+
+Selected items:
+Item 2: value=2945, weight=7390
+Item 3: value=4136, weight=10372
+Item 4: value=1107, weight=3114
+Item 13: value=3878, weight=9656
+
+Binary representation:
+0011100000000100000

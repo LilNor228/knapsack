@@ -1,0 +1,11 @@
+Knapsack Solution for: ks_40_0
+Capacity: 100000
+Total value: 99757
+Total weight: 99753
+
+Selected items:
+Item 5: value=89251, weight=89250
+Item 6: value=10506, weight=10503
+
+Binary representation:
+0000011000000000000000000000000000000000

@@ -1,0 +1,63 @@
+Knapsack Solution for: ks_100_1
+Capacity: 3190802
+Total value: 1263513
+Total weight: 3042026
+
+Selected items:
+Item 0: value=1491, weight=3882
+Item 1: value=399, weight=1298
+Item 2: value=77, weight=654
+Item 3: value=969, weight=2638
+Item 4: value=8485, weight=20670
+Item 5: value=55, weight=610
+Item 6: value=1904, weight=4908
+Item 7: value=703, weight=2106
+Item 8: value=657, weight=2014
+Item 9: value=932, weight=2564
+Item 10: value=1201, weight=3302
+Item 11: value=1697, weight=4494
+Item 12: value=462, weight=1424
+Item 13: value=1201, weight=3302
+Item 14: value=111632, weight=267364
+Item 15: value=9044, weight=21988
+Item 16: value=147380, weight=352660
+Item 17: value=31852, weight=76604
+Item 18: value=9044, weight=21988
+Item 19: value=9300, weight=22700
+Item 27: value=6308, weight=15516
+Item 31: value=7463, weight=18226
+Item 32: value=2988, weight=7476
+Item 37: value=7150, weight=17400
+Item 39: value=177, weight=854
+Item 43: value=11108, weight=26916
+Item 46: value=1490, weight=3880
+Item 49: value=2468, weight=6236
+Item 51: value=5972, weight=14644
+Item 52: value=9532, weight=23164
+Item 53: value=1872, weight=4844
+Item 54: value=3964, weight=9828
+Item 55: value=2799, weight=7098
+Item 56: value=527708, weight=1261916
+Item 59: value=21004, weight=50708
+Item 60: value=47728, weight=114556
+Item 64: value=2822, weight=7144
+Item 66: value=6324, weight=15548
+Item 67: value=9508, weight=23116
+Item 68: value=9268, weight=22636
+Item 69: value=11636, weight=28172
+Item 70: value=210708, weight=504116
+Item 75: value=112, weight=724
+Item 80: value=820, weight=2340
+Item 81: value=278, weight=1056
+Item 83: value=1413, weight=3726
+Item 86: value=2581, weight=6662
+Item 87: value=287, weight=1074
+Item 92: value=0, weight=500
+Item 93: value=472, weight=1444
+Item 94: value=360, weight=1220
+Item 95: value=0, weight=500
+Item 98: value=5924, weight=14548
+Item 99: value=2784, weight=7068
+
+Binary representation:
+1111111111111111111100000001000110000101000100100101111110011000101111100001000011010011000011110011

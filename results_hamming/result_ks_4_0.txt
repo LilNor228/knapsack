@@ -1,0 +1,11 @@
+Knapsack Solution for: ks_4_0
+Capacity: 11
+Total value: 19
+Total weight: 11
+
+Selected items:
+Item 2: value=15, weight=8
+Item 3: value=4, weight=3
+
+Binary representation:
+0011

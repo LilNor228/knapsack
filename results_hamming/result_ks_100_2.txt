@@ -1,0 +1,15 @@
+Knapsack Solution for: ks_100_2
+Capacity: 10000
+Total value: 9904
+Total weight: 9962
+
+Selected items:
+Item 8: value=1859, weight=1899
+Item 9: value=2055, weight=1960
+Item 10: value=362, weight=378
+Item 12: value=1880, weight=1970
+Item 18: value=1878, weight=1775
+Item 19: value=1870, weight=1980
+
+Binary representation:
+0000000011101000001100000000000000000000000000000000000000000000000000000000000000000000000000000000
